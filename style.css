@@ -51,7 +51,7 @@ nav ul li {
 }
 
 .nav-links:hover {
-  color: rgb(41, 144, 228);
+  color: rgb(0, 110, 255);
 }
 
 .main .hero-img {
@@ -274,7 +274,7 @@ nav ul li {
   color: rgb(126, 126, 126);
 }
 .footer a:hover {
-  color: rgb(54, 115, 196);
+  color: rgb(0, 110, 255);
 }
 
 .footer-2 {
