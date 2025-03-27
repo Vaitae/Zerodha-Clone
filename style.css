@@ -96,6 +96,7 @@ nav ul li {
   font-size: 20px;
   border: none;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .firstb:hover {
@@ -152,6 +153,7 @@ nav ul li {
   position: relative;
   font-size: 20px;
   top: 250px;
+  cursor: pointer;
 }
 
 .feature-1 {
